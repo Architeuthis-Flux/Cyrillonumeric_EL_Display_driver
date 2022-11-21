@@ -2,6 +2,8 @@
 
 If you happen to have some [IEL-0-VI](http://lampes-et-tubes.info/cd/cd113.php?l=e) Cyrillonumeric EL displays and some (discontinued) [EL Sequencers](https://www.sparkfun.com/products/retired/12781) from Sparkfun, this code should get you going with displaying whatever you want on them.
 
+![Pic1](https://user-images.githubusercontent.com/20519442/203099698-aa573b9a-bc8b-4a4e-954f-b6dceff32a4a.jpg)![12781-01a](https://user-images.githubusercontent.com/20519442/203099536-d18a9923-55e9-4dd0-9007-f6df6e6c7449.jpg)
+
 Different EL displays will probably work too, I just havent tested on them (I haven't even tested on IEL-0-VIs, I wrote this code for someone else who has them, but I'm pretty sure it will work) 
 
 Here's how you wire them up for multiple displays
